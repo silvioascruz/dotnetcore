@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/izQx2+lTMyB6082TFrZPU2zQNZBG+s9JtTWRkwv/5+LWKtY0AKhD80GZXZkBQrNjDb0sKxyxKb8qkmwZWE9Q==",
+  "success": true,
+  "projectFilePath": "G:\\Workspaces\\dotnetcore\\certificacao-csharp-pt12\\antes\\Program01.01\\Program01.01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvi_000\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\silvi_000\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\silvi_000\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\silvi_000\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\silvi_000\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

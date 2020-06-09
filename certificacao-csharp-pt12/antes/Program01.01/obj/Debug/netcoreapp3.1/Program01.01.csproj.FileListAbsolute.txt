@@ -1,0 +1,16 @@
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Program01.01.exe
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Program01.01.deps.json
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Program01.01.runtimeconfig.json
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Program01.01.runtimeconfig.dev.json
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Program01.01.dll
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Program01.01.pdb
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.csprojAssemblyReference.cache
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.AssemblyInfoInputs.cache
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.AssemblyInfo.cs
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.csproj.CoreCompileInputs.cache
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.csproj.CopyComplete
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.dll
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.pdb
+G:\Workspaces\dotnetcore\certificacao-csharp-pt12\antes\Program01.01\obj\Debug\netcoreapp3.1\Program01.01.genruntimeconfig.cache

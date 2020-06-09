@@ -1,0 +1,13 @@
+G:\Workspaces\dotnetcore\Testes\prjWinforms\bin\Debug\netcoreapp3.1\prjWinforms.exe
+G:\Workspaces\dotnetcore\Testes\prjWinforms\bin\Debug\netcoreapp3.1\prjWinforms.deps.json
+G:\Workspaces\dotnetcore\Testes\prjWinforms\bin\Debug\netcoreapp3.1\prjWinforms.runtimeconfig.json
+G:\Workspaces\dotnetcore\Testes\prjWinforms\bin\Debug\netcoreapp3.1\prjWinforms.runtimeconfig.dev.json
+G:\Workspaces\dotnetcore\Testes\prjWinforms\bin\Debug\netcoreapp3.1\prjWinforms.dll
+G:\Workspaces\dotnetcore\Testes\prjWinforms\bin\Debug\netcoreapp3.1\prjWinforms.pdb
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.csprojAssemblyReference.cache
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.AssemblyInfoInputs.cache
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.AssemblyInfo.cs
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.csproj.CoreCompileInputs.cache
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.dll
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.pdb
+G:\Workspaces\dotnetcore\Testes\prjWinforms\obj\Debug\netcoreapp3.1\prjWinforms.genruntimeconfig.cache
